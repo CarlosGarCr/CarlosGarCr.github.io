@@ -1,0 +1,364 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.backColor{
+    background-color: #e6f4fc;
+    width: 50%;
+    height: 100%;
+}
+h1{
+    color:#2949C7
+}
+h2, h3, h4, h5{
+
+    color: #1f3e72;
+}
+header{
+    display: flex;
+    
+    align-items: center;
+    
+    
+
+
+}
+.headH2{
+    font-size: 300%;
+    width: 600%;
+    padding-left: 4%;
+}
+nav{
+    width: 2000%;
+    padding: 1%;
+    text-align: right;
+    align-content: right;
+    font-size: 150%;
+    background: #EEF3FF;
+    background: linear-gradient(90deg, white 30%, #EEF3FF 51%);
+    
+}
+
+nav li{
+    display: inline-block;
+    list-style: none;
+    padding-left: 6%;
+    color: #6D7B93;
+    font-weight: bolder;
+    
+}
+.hoax{
+    background-color: #3252D0;
+    color: white;
+    padding: 4%;
+    font-size: 100%;
+    margin: 10px;
+    font-weight: bold;
+    font-weight: 1;
+    
+}
+
+.asRight {
+    text-align: left;
+    width: 50%;
+    margin: 0;
+    padding-left: 5%;
+    
+}
+.firstSecH{
+    font-size: 350%;
+    width: 50%;
+}
+.asRight p {
+    font-size: 30px;
+    color: #6D7B93;
+    width: 60%;
+    font-weight: 900;
+    
+}
+.botH3{
+    font-size: 260%;
+    ;
+}
+.schelude{
+    padding-left: 4%;
+    padding-bottom: 10%;
+    padding-top: 8%;
+ 
+}
+.locations{
+    
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 70%;
+    height: 15%;
+    opacity: .9;
+    position: absolute;
+    background-color: white;
+    padding-left: 5%;
+    
+}
+.locations p{
+    padding-top: 5%;
+    width: 100%;
+    font-size: 200%;
+    font-weight: bolder;
+   
+}
+.locations h5{
+    font-size: 150%;
+    
+}
+.fSpanDiv{
+    padding-left: 4%;
+    width: 40%;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    color: #2949C7;
+    font-weight: bolder;
+    
+    
+}
+.leftSpan{
+    text-align: left;
+    padding-right: 9%;
+   
+    font-size: 200% !important;
+}
+.rightSpan{
+    text-align: left;
+    font-size: 200% !important;
+    width: 50%;
+
+}
+.star{
+    
+    width: 5%;
+    height: 5%;
+   
+}
+.clock{
+    width: 2%;
+    height: 6%;
+    
+    
+}
+.bannerVac{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+}
+.bannerVac img{
+    
+    width: 20%;
+    filter: grayscale(90%);
+    opacity: .1;
+}
+.imgOne{
+    width: 50%;
+    height: 90%;
+    height: auto;
+    float: right;
+}
+
+.imgTwo{
+    width: 50%;
+    height: 90%;
+    float: left;
+    background: white;
+    background: linear-gradient(180deg, white 30%, #EEF3FF 40%);
+}
+.imgThree{
+    width: 50%;
+    height: 90%;
+    float: right;
+    background: white;
+    background: linear-gradient(180deg, white 30%, #EEF3FF 40%);
+}
+.secondSecHeader{
+    font-size: 450%;
+    padding-top: 1%;
+}
+.infos{
+    display: inline-flex;
+    align-items: center, baseline;
+    flex-direction: row;
+    justify-content: stretch;
+    padding-top: 7%;
+}
+
+.infos{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.infos div{
+    width: 20%;
+    padding: 5%;
+    margin:  5px;
+    box-shadow: 0px 0px 10px 0px rgba(128, 128, 128, 0.425);
+    border-radius: 7%;
+    opacity: .7;
+    text-align: center;
+}
+.info2{
+    background: rgb(246,246,246);
+    background: linear-gradient(31deg, rgba(246,246,246,1) 18%, rgba(211,243,250,1) 100%);
+
+}
+.infos div h3{
+    font-size: 250%;
+}
+
+.infos div p{
+    padding-top: 10%;
+    color: #a4acbb;
+    font-size: 120%;
+    font-weight: bolder;
+    
+}
+.infImg{
+    width: 20%;
+    
+}
+.lAsideSec{
+    padding-left: 53%;
+    padding-right: 12%;
+    
+}
+.lAsideSec h1{
+    font-size: 250%;
+    
+}
+.lAsideSec p{
+    width: 70%;
+    font-size: 150%;
+    font-weight: bolder;
+    color: #6D7B93;
+}
+.tirdthSection div{
+    
+    padding-left: 52%;
+    padding-top: 2%;
+   
+}
+
+.tirdthSection div h3{
+    color: #1f3e72;
+    font-size: 150%;
+    font-weight: bolder;
+}
+.preparations div{
+   width: 60%;
+   text-align: left;
+    padding: 2%;
+    margin: 3%;
+    box-shadow: 0px 0px 2px 0px rgba(128, 128, 128, 0.425);
+    border-radius: 5%;
+   
+
+}
+.imgTwoi{
+    width: 7%;
+    padding-right:5% ;
+    
+}
+.imgTwoIc{
+    width: 20%;
+    padding-right:5% ;
+}
+.preparations h3{
+    padding-left: 20%;
+    color: #2949C7 !important;
+    font-weight: bolder !important;
+}
+.emergencyH{
+    font-size: 250%;
+    padding-top: 4%;
+}  
+
+.container{
+    width: 40%;
+    height: 50%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding-left: 10%;
+    padding-top: 8%;
+}
+.container div{
+    width: 30%;
+    margin: 2%;
+    text-align: center;
+    padding: 5%;
+    box-shadow: 0px 0px 1px 0px rgba(128, 128, 128, 0.425);
+    
+}
+
+.container div h3{
+    font-size: 250%;
+    color:#2949C7
+}
+
+footer{
+    margin-top: 10%;
+    background-color: #EEF3FF;
+    display: flex;
+    justify-content:space-around;
+    padding-top: 3%;
+}
+
+footer h2{
+    font-size: 200%;
+    font-weight: bolder;
+}
+
+.fRightInfo{
+    display: flex;
+    align-self: flex-end;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    width: 30%;
+}
+.fRightInfo div{
+    display: flex;
+    flex-direction: column;
+
+}
+.fRightInfo h3{
+    font-size: 190%;
+    text-align: center;
+}
+.fRightInfo span{
+    padding: 5%;
+    font-size: 150%;
+    text-align: center;
+}
+.fLeftInfo{
+    width: 20%;
+
+}
+.fLeftInfo p{
+    font-size: 150%;
+    width: 50%;
+    margin-top: 5%;
+}
+.last{
+    background-color: #EEF3FF;
+    display: flex;
+    gap: 50%;
+    padding-top: 3%;
+}
+.last div{
+    width: 30%;
+}
+.last span{
+    padding-left: 5%;   
+    width: 30%;
+    font-size: 120%;
+}
